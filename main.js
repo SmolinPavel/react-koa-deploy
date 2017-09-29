@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 class Hello extends React.Component{
- console.log('react is here');
  render(){
   return(
    <div>
